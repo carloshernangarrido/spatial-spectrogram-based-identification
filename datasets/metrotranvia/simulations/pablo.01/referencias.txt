@@ -1,0 +1,6 @@
+01.salida.pkl:
+L = 60 m
+Velocidad: lineal hasta 15 m/s
+Tiempo de simulación: 5 s
+Sin daño en vía
+Tren cargado al máximo

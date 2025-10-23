@@ -1,0 +1,7 @@
+
+02.salida.pkl:
+L = 100 m
+Velocidad: lineal hasta 15 m/s
+Tiempo de simulación: 10 s
+Elementos_danados = {80: 0.10, 81: 0.10} (progresiva 40)
+Tren cargado al máximo

@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,moto g32,1751064260841,2025-06-27_22-44-20,America/Argentina/Buenos_Aires,android,1.43.3,815c0aef-9b4b-453d-8616-2ccca36d3550,Accelerometer|Gravity|Gyroscope|Orientation|Magnetometer|Location|Annotation|TotalAcceleration|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10|10|1000||10|10|10|10,false
